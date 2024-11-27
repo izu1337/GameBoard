@@ -1,4 +1,4 @@
-# GameBoard API et Projet Frontend
+# Projet API et Frontend React
 
 ## Description
 
